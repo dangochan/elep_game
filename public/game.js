@@ -68,7 +68,7 @@ const questions = [
 
   {
     question: " synonyms for SMALL ",
-    answers: ["tiny","little","mini", "petit"],
+    answers: ["tiny","little","mini", "petite"],
     revealed: []
   },
 
@@ -92,7 +92,7 @@ const questions = [
   
   {
     question: " synonyms for Beautiful",
-    answers: ["attractive","lovely","gorgeous"],
+    answers: ["attractive","lovely","gorgeous","pretty"],
     revealed: []
   },
 
