@@ -96,9 +96,15 @@ const questions = [
     revealed: []
   },
 
-   {
+  {
     question: "Name of materials you can  recycle",
     answers: ["papers","plastic","glass","metal"],
+    revealed: []
+  },
+
+  {
+    question: " Name the most useful body part that begins with the letter L ",
+    answers: ["legs","lungs","liver","lips"],
     revealed: []
   },
 
